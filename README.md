@@ -2,9 +2,9 @@
 
 [<img src="https://raw.githubusercontent.com/desireevl/awesome-quantum-computing/master/logo.png" align="right" width="110">](https://en.wikipedia.org/wiki/Quantum_computing)
 
-[Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing) utilises quantum mechanical phenomenon such as entanglement and superposition to manipulate qubits to perform computation on a quantum computer. Currently available are tools to create and run programs on publicly usable quantum computers as well as resources to learn about them. 
+[Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing) utilizes quantum mechanical phenomenon such as entanglement and superposition to manipulate qubits to perform computation on a quantum computer. Currently available are tools to create and run programs on publicly usable quantum computers as well as resources to learn about them. 
 
-This is a curated list of up-to-date resources on learning about and developing on quantum computers. The goal is to build a categorised community-driven collection of up to date, high quality resources. 
+This is a curated list of up-to-date resources on learning about and developing on quantum computers. The goal is to build a categorized community-driven collection of up to date, high quality resources. 
 
 Sharing, suggestions and contributions are always welcome! Please take a look at the contribution guidelines and quality standard first. Thanks to all contributors, you're awesome and it wouldn't be possible without you!
 
@@ -34,7 +34,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Qiskit Tutorials](https://github.com/Qiskit/qiskit-tutorial) - Jupyter notebooks simply demonstrating how to use Qiskit.
 - [Quantum Algorithm Zoo](http://math.nist.gov/quantum/zoo/) - Comprehensive catalog of quantum algorithms. 
 - [Quantum Computer Programming](https://cs269q.stanford.edu/syllabus.html?fbclid=IwAR09_JNstMi4WVU4oMHDpWR6xWaSISlrYPjWTUTnhcRdEQhzpoOTRgQN8LI) - Hands on Stanford course teaching quantum computing to those without a quantum mechanical background.
-- [Quantum Computing Playground](http://www.quantumplayground.net/#/home) - 3D quantum state visualisation tool able to simulate up to 22 qubits.
+- [Quantum Computing Playground](http://www.quantumplayground.net/#/home) - 3D quantum state visualization tool able to simulate up to 22 qubits.
 - [Quantum computing for the very curious](https://quantum.country/qcvc) - Essay introducing quantum computing by Michael Nielsen and Andy Matuschak.
 - [Quantum in the Cloud](http://cnotmz.appspot.com/#) - Four qubit photonic quantum simulator and computer.
 - [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#.
@@ -69,7 +69,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [PennyLane](http://github.com/XanaduAI/pennylane) - Open source framework for quantum computing and quantum machine learning that integrates various other platforms.
 - [Project Q](http://projectq.ch/) - Framework for implementing quantum computing in Python.
 - [pyQuil](https://github.com/rigetticomputing/pyquil) - Python library for quantum programming using Quil by Rigetti.
-- [pytket](https://cqcl.github.io/pytket/build/html/index.html) - Python module for interfacing with Cambridge Quantum Computing's t|ket>; a tool for circuit optimising and qubit allocation.
+- [pytket](https://cqcl.github.io/pytket/build/html/index.html) - Python module for interfacing with Cambridge Quantum Computing's t|ket>; a tool for circuit optimizing and qubit allocation.
 - [QCL](http://tph.tuwien.ac.at/~oemer/qcl.html) - Older, C like language for quantum computers. Only has a simulator and debugger.
 - [Qiskit SDK](https://qiskit.org) - Software development kit by IBM for writing and running quantum algorithms on simulators and real hardware.
 - [Qiskit.js](https://github.com/QISKit/qiskit-js) - Qiskit for JavaScript made by IBM.
@@ -109,7 +109,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Programming Quantum Computers: Essential Algorithms and Code Samples](https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms/dp/1492039683) - Hands-on introduction to quantum computing that focuses on concepts and programming examples (in multiple languages).
 - [Quantum Computation and Quantum Information](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf) - Comprehensive textbook for those with some prior knowledge in mathematics, computer science and physics.
 - [Quantum Computing: An Applied Approach](https://www.springer.com/gp/book/9783030239213) - A hands on introduction into quantum computing that explains the foundations of quantum computing to the mathematics behind quantum systems.
-- [Quantum Computing: A Gentle Introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf) - Explains quantum computing with only basic college maths knowledge needed.
+- [Quantum Computing: A Gentle Introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf) - Explains quantum computing with only basic college math knowledge needed.
 - [Quantum Computing Explained](https://www.amazon.com/Quantum-Computing-Explained-David-McMahon/dp/0470096993) - Conversational approach to explaining quantum computing with worked solutions.
 - [Quantum Computing for Computer Scientists](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965) - Quantum computing explained using an approach accessible to undergraduate computer science students.
 - [Quantum Computing for Java Developers](https://www.manning.com/books/quantum-computing-for-java-developers) - Explains quantum computing through the lens of its practical implementation.
@@ -123,7 +123,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM) - Microsoft Research Talk on introductory quantum computing for computer scientists. Duration: 1 hour, 28 minutes.
 - [Quantum Computing for the Determined](https://www.youtube.com/playlist?list=PL1826E60FD05B44E4) - A series of lectures on quantum computing basics by [Michael Nielsen](http://michaelnielsen.org/).
 - [Quantum Computation and Information at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz) - A series of lectures on quantum computing by [Professor O'Donnell at CMU](https://www.cs.cmu.edu/~odonnell/quantum18/).
-- [Quantum Impact](https://www.youtube.com/playlist?list=PLFPUGjQjckXFsOEBvvaDeIk5GxctP0ZhX) - Understand how quantum computing can help scientists solve some of the world's most challenging problems such as land optimisation. 
+- [Quantum Impact](https://www.youtube.com/playlist?list=PLFPUGjQjckXFsOEBvvaDeIk5GxctP0ZhX) - Understand how quantum computing can help scientists solve some of the world's most challenging problems such as land optimization. 
 - [Quantum Computing Seminar Series](https://www.youtube.com/watch?v=iKgysY097Ok&list=PLOFEBzvs-Vvr0uEoGFo08n4-WrM_8fft2) - Qiskit series discussing recent research.
 
 ## Community
